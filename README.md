@@ -33,7 +33,7 @@ The solver has been successfully built and tested on the following system config
 
 1.  **Clone the repository:**
     ```bash
-    https://github.com/mrgump-123/Localized-Multicommodity-Flow.git
+    git clone https://github.com/mrgump-123/Localized-Multicommodity-Flow.git
     cd your-repository-name
     ```
 
